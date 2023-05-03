@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/audio-player/static/css/main.c5514dfb.css",
+    "main.js": "/audio-player/static/js/main.d98b5b2b.js",
+    "static/media/Castaway.mp3": "/audio-player/static/media/Castaway.b8fdb09352be75de14bc.mp3",
+    "static/media/Bane of My Existence.mp3": "/audio-player/static/media/Bane of My Existence.d59ee5ab16433a826900.mp3",
+    "static/media/Castaway_small.jpg": "/audio-player/static/media/Castaway_small.fd66aec851025f4a9800.jpg",
+    "static/media/Bane of my existence_small.jpg": "/audio-player/static/media/Bane of my existence_small.c61151cab5318aa2e633.jpg",
+    "index.html": "/audio-player/index.html",
+    "main.c5514dfb.css.map": "/audio-player/static/css/main.c5514dfb.css.map",
+    "main.d98b5b2b.js.map": "/audio-player/static/js/main.d98b5b2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5514dfb.css",
+    "static/js/main.d98b5b2b.js"
+  ]
+}
